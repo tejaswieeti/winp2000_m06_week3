@@ -1,6 +1,6 @@
-#Learning About Linux
+# Learning About Linux
 
-##Introduction
+## Introduction
   The document is about  the summarization of the things that i have learned about linux, which includes linux history, distributions and some of its basic commands.
 
 ## Section 1: Linux History:
