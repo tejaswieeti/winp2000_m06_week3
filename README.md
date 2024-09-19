@@ -16,7 +16,9 @@
 
 ## Section 3: Basic Linus Commands:
    here are few linux commands i have worked on mostly 
+   
  " mkdir" used to create a new directory.
+ 
  "mv" used to move files or directories.
 
 ## Conclusion:
