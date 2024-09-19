@@ -16,9 +16,9 @@
  
  **kALI**  known for testing the security of network and system.
  
- **Red Hat** known for comercialLy hacked and supported OS. 
+ **Red Hat** known for comercially hacked and supported OS. 
  
- **Debain**  It is one of the oldest and most influential Linux distributions, prized for its stability, security, and vast software repositories.
+ **Debain**  It is one of the oldest and most influential Linux distributions, known for its stability, security, and vast software repositories.
  
 
 ## Section 3: Basic Linus Commands:
